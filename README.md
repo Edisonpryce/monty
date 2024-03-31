@@ -1,2 +1,1 @@
-This is the monty repository for thsi task.
-Thank you
+This is Readme for monty
